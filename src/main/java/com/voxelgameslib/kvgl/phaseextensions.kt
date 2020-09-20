@@ -1,8 +1,8 @@
 package com.voxelgameslib.kvgl
 
-import com.voxelgameslib.voxelgameslib.feature.Feature
-import com.voxelgameslib.voxelgameslib.game.Game
-import com.voxelgameslib.voxelgameslib.phase.Phase
+import com.voxelgameslib.voxelgameslib.api.feature.Feature
+import com.voxelgameslib.voxelgameslib.api.game.Game
+import com.voxelgameslib.voxelgameslib.api.phase.Phase
 
 // Look into changing the base methods to allow Kotlin to do this automatically
 var Phase.allowJoin: Boolean

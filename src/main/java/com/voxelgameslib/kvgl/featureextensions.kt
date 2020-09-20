@@ -1,7 +1,7 @@
 package com.voxelgameslib.kvgl
 
-import com.voxelgameslib.voxelgameslib.feature.Feature
-import com.voxelgameslib.voxelgameslib.feature.features.MapFeature
+import com.voxelgameslib.voxelgameslib.api.feature.Feature
+import com.voxelgameslib.voxelgameslib.api.feature.features.MapFeature
 import kotlin.reflect.KClass
 
 // Look into changing base method names

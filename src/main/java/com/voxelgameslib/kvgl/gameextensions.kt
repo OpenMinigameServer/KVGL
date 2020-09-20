@@ -1,10 +1,10 @@
 package com.voxelgameslib.kvgl
 
-import com.voxelgameslib.voxelgameslib.feature.Feature
-import com.voxelgameslib.voxelgameslib.game.AbstractGame
-import com.voxelgameslib.voxelgameslib.game.Game
-import com.voxelgameslib.voxelgameslib.game.GameMode
-import com.voxelgameslib.voxelgameslib.phase.Phase
+import com.voxelgameslib.voxelgameslib.api.feature.Feature
+import com.voxelgameslib.voxelgameslib.api.game.AbstractGame
+import com.voxelgameslib.voxelgameslib.api.game.Game
+import com.voxelgameslib.voxelgameslib.api.game.GameMode
+import com.voxelgameslib.voxelgameslib.api.phase.Phase
 
 // Maybe change the "get" behaviour of this, or maybe just make a function?
 inline var Game.minAndMaxPlayers: Int
